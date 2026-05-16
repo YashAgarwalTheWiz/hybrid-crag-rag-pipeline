@@ -137,6 +137,11 @@ This corrective layer prevents the LLM from being forced to answer from irreleva
 
 ---
 
+Download the RBI Annual Report 2024-25 from:
+https://www.rbi.org.in/Scripts/AnnualReportPublications.aspx
+Place it in the data/ folder as RBI_Annual_report.pdf
+
+
 ## 👤 Author
 
 **Yash Agarwal**
